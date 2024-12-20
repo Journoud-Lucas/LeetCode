@@ -11,7 +11,7 @@ Problems: 9 - Palindrome Number
 bool isPalindrome(int number);
 void isPalindromeAndShow(int number);
 
-int main(void)
+int main()
 {
 	isPalindromeAndShow(83738);
     isPalindromeAndShow(123454321);
