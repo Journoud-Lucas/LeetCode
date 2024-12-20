@@ -23,6 +23,8 @@ int main()
 
     std::vector<int> test3 = { 3, 3};
     printVector(twoSum(test3, 6));
+
+    return 0;
 }
 
 std::vector<int> twoSum(std::vector<int>& nums, int target)

@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2 - Add Two Numbers", "2 - 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1 - Two Sum", "1 - Two Sum\1 - Two Sum.vcxproj", "{B5F4257A-C490-479B-A36F-8FC7DDE4DC23}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13 - Roman to Integer", "13 - Roman to Integer\13 - Roman to Integer.vcxproj", "{875F09A0-EB5D-459B-97C4-FBA8E3B2B0F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{B5F4257A-C490-479B-A36F-8FC7DDE4DC23}.Release|x64.Build.0 = Release|x64
 		{B5F4257A-C490-479B-A36F-8FC7DDE4DC23}.Release|x86.ActiveCfg = Release|Win32
 		{B5F4257A-C490-479B-A36F-8FC7DDE4DC23}.Release|x86.Build.0 = Release|Win32
+		{875F09A0-EB5D-459B-97C4-FBA8E3B2B0F1}.Debug|x64.ActiveCfg = Debug|x64
+		{875F09A0-EB5D-459B-97C4-FBA8E3B2B0F1}.Debug|x64.Build.0 = Debug|x64
+		{875F09A0-EB5D-459B-97C4-FBA8E3B2B0F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{875F09A0-EB5D-459B-97C4-FBA8E3B2B0F1}.Debug|x86.Build.0 = Debug|Win32
+		{875F09A0-EB5D-459B-97C4-FBA8E3B2B0F1}.Release|x64.ActiveCfg = Release|x64
+		{875F09A0-EB5D-459B-97C4-FBA8E3B2B0F1}.Release|x64.Build.0 = Release|x64
+		{875F09A0-EB5D-459B-97C4-FBA8E3B2B0F1}.Release|x86.ActiveCfg = Release|Win32
+		{875F09A0-EB5D-459B-97C4-FBA8E3B2B0F1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
