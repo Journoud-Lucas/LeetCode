@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14 - Longest Common Prefix"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20 - Valid Parentheses", "20 - Valid Parentheses\20 - Valid Parentheses.vcxproj", "{23E04AB4-0CEC-47E0-B88E-2D84C4CD2944}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "26 - Remove Duplicates from Sorted Array", "26 - Remove Duplicates from Sorted Array\26 - Remove Duplicates from Sorted Array.vcxproj", "{8607A3CB-97CD-4743-8898-3C85C0190BC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{23E04AB4-0CEC-47E0-B88E-2D84C4CD2944}.Release|x64.Build.0 = Release|x64
 		{23E04AB4-0CEC-47E0-B88E-2D84C4CD2944}.Release|x86.ActiveCfg = Release|Win32
 		{23E04AB4-0CEC-47E0-B88E-2D84C4CD2944}.Release|x86.Build.0 = Release|Win32
+		{8607A3CB-97CD-4743-8898-3C85C0190BC6}.Debug|x64.ActiveCfg = Debug|x64
+		{8607A3CB-97CD-4743-8898-3C85C0190BC6}.Debug|x64.Build.0 = Debug|x64
+		{8607A3CB-97CD-4743-8898-3C85C0190BC6}.Debug|x86.ActiveCfg = Debug|Win32
+		{8607A3CB-97CD-4743-8898-3C85C0190BC6}.Debug|x86.Build.0 = Debug|Win32
+		{8607A3CB-97CD-4743-8898-3C85C0190BC6}.Release|x64.ActiveCfg = Release|x64
+		{8607A3CB-97CD-4743-8898-3C85C0190BC6}.Release|x64.Build.0 = Release|x64
+		{8607A3CB-97CD-4743-8898-3C85C0190BC6}.Release|x86.ActiveCfg = Release|Win32
+		{8607A3CB-97CD-4743-8898-3C85C0190BC6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
