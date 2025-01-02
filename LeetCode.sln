@@ -19,6 +19,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "26 - Remove Duplicates from
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "27 - Remove Element", "27 - Remove Element\27 - Remove Element.vcxproj", "{4F6A359F-2C15-44B0-B285-5429622BCAC6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "28 - Find the Index of the First Occurrence in a String", "28 - Find the Index of the First Occurrence in a String\28 - Find the Index of the First Occurrence in a String.vcxproj", "{9B89DA31-8F2C-4677-B24D-D7D38C54C3C6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "35 - Search Insert Position", "35 - Search Insert Position\35 - Search Insert Position.vcxproj", "{E1E031C0-FA83-4C9B-A55E-B04136A059A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +95,22 @@ Global
 		{4F6A359F-2C15-44B0-B285-5429622BCAC6}.Release|x64.Build.0 = Release|x64
 		{4F6A359F-2C15-44B0-B285-5429622BCAC6}.Release|x86.ActiveCfg = Release|Win32
 		{4F6A359F-2C15-44B0-B285-5429622BCAC6}.Release|x86.Build.0 = Release|Win32
+		{9B89DA31-8F2C-4677-B24D-D7D38C54C3C6}.Debug|x64.ActiveCfg = Debug|x64
+		{9B89DA31-8F2C-4677-B24D-D7D38C54C3C6}.Debug|x64.Build.0 = Debug|x64
+		{9B89DA31-8F2C-4677-B24D-D7D38C54C3C6}.Debug|x86.ActiveCfg = Debug|Win32
+		{9B89DA31-8F2C-4677-B24D-D7D38C54C3C6}.Debug|x86.Build.0 = Debug|Win32
+		{9B89DA31-8F2C-4677-B24D-D7D38C54C3C6}.Release|x64.ActiveCfg = Release|x64
+		{9B89DA31-8F2C-4677-B24D-D7D38C54C3C6}.Release|x64.Build.0 = Release|x64
+		{9B89DA31-8F2C-4677-B24D-D7D38C54C3C6}.Release|x86.ActiveCfg = Release|Win32
+		{9B89DA31-8F2C-4677-B24D-D7D38C54C3C6}.Release|x86.Build.0 = Release|Win32
+		{E1E031C0-FA83-4C9B-A55E-B04136A059A8}.Debug|x64.ActiveCfg = Debug|x64
+		{E1E031C0-FA83-4C9B-A55E-B04136A059A8}.Debug|x64.Build.0 = Debug|x64
+		{E1E031C0-FA83-4C9B-A55E-B04136A059A8}.Debug|x86.ActiveCfg = Debug|Win32
+		{E1E031C0-FA83-4C9B-A55E-B04136A059A8}.Debug|x86.Build.0 = Debug|Win32
+		{E1E031C0-FA83-4C9B-A55E-B04136A059A8}.Release|x64.ActiveCfg = Release|x64
+		{E1E031C0-FA83-4C9B-A55E-B04136A059A8}.Release|x64.Build.0 = Release|x64
+		{E1E031C0-FA83-4C9B-A55E-B04136A059A8}.Release|x86.ActiveCfg = Release|Win32
+		{E1E031C0-FA83-4C9B-A55E-B04136A059A8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
