@@ -1,3 +1,9 @@
+/*
+Author: JOURNOUD Lucas
+Date: 2025-01-02
+Website: LeetCode
+Problems: 58 - Length of Last Word
+*/
 
 #include <iostream>
 
